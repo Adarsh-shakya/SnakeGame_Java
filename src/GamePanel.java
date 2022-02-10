@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.Random;
-
+//main code this
 public class GamePanel extends JPanel implements ActionListener , KeyListener {
     private int snakexlength[]=new int[750];
     private int snakeylength[]=new int[750];
